@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chat App",
+    "description": "A real-time chat app using MERN stack + socket.io",
+    "demo": "https://chatapp.vercel.app",
+    "github": "https://github.com/NicoUsername/chat-app",
+    "tech": ["React", "Node", "Express", "MongoDB", "Socket.io"],
+    "image": "https://raw.githubusercontent.com/NicoUsername/chat-app/main/preview.png",
+    "updated_at": "2025-04-20"
+  },
+  {
+    "name": "Portfolio Website",
+    "description": "My personal portfolio site built with Tailwind & React",
+    "demo": "https://nico.dev",
+    "github": "https://github.com/NicoUsername/portfolio-site",
+    "tech": ["React", "Tailwind", "daisyUI"],
+    "image": "https://raw.githubusercontent.com/NicoUsername/portfolio-site/main/screenshot.gif",
+    "updated_at": "2025-04-18"
+  }
+]
