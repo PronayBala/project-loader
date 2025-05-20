@@ -5,16 +5,25 @@
     "demo": "https://wavey-rho.vercel.app/",
     "github": "",
     "tech": ["React", "Node", "Express", "MongoDB", "Socket.io"],
-    "image": "",
+    "image": "https://res.cloudinary.com/dz3fzl5au/image/upload/v1747726956/wavey_cxfozw.png",
     "updated_at": "2025-04-20"
   },
   {
+    "name": "Task Manager",
+    "description": "My portfolio site built with Tailwind & React",
+    "demo": "https://task-manager-pearl-two.vercel.app/",
+    "github": "",
+    "tech": ["React", "Tailwind", "daisyUI"],
+    "image": "https://res.cloudinary.com/dz3fzl5au/image/upload/v1747726956/zentra_b6ieja.png",
+    "updated_at": "2025-05-20"
+  },
+  {
     "name": "Portfolio Website",
-    "description": "My personal portfolio site built with Tailwind & React",
+    "description": "My portfolio site built with Tailwind & React",
     "demo": "https://pronay.vercel.app/",
     "github": "",
     "tech": ["React", "Tailwind", "daisyUI"],
-    "image": "",
+    "image": "https://res.cloudinary.com/dz3fzl5au/image/upload/v1747726956/Pronaybala_wei8sn.png",
     "updated_at": "2025-04-18"
   }
 ]
